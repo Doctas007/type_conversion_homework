@@ -1,13 +1,20 @@
 # Task 8: Math Operations
-# Convert decimals to integers and multiply
+# Instructions:
+# 1. Convert 15.7 to integer using int()
+# 2. Convert 3.2 to integer using int()
+# 3. Multiply the converted numbers
+# 4. Print all results
 
-# Convert first decimal number to integer
-num1 = int(15.7)
-num2 = int(3.2)
+# TODO: Convert 15.7 to integer
+num1 = None  # Replace None with your code
 
-# Multiply the numbers
-result = num1 * num2
+# TODO: Convert 3.2 to integer
+num2 = None  # Replace None with your code
 
-print(f"First number after conversion: {num1}")
-print(f"Second number after conversion: {num2}")
-print(f"Multiplication result: {result}")
+# TODO: Multiply num1 and num2
+result = None  # Replace None with your code
+
+# Print results (don't modify these lines)
+print("First number after conversion:", num1)
+print("Second number after conversion:", num2)
+print("Multiplication result:", result)

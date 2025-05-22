@@ -1,16 +1,24 @@
 # Task 5: Add After Conversion
-# Convert string numbers to integers and add them
+# Instructions:
+# 1. Convert string "10" to integer
+# 2. Convert string "20" to integer
+# 3. Add the converted numbers
+# 4. Print the results
 
+# String numbers to convert
 str_num1 = "10"
 str_num2 = "20"
 
-# Convert to integers
-num1 = int(str_num1)
-num2 = int(str_num2)
+# TODO: Convert str_num1 to integer
+num1 = None  # Replace None with your code
 
-# Add the numbers
-sum_result = num1 + num2
+# TODO: Convert str_num2 to integer
+num2 = None  # Replace None with your code
 
-print(f"First number: {num1}")
-print(f"Second number: {num2}")
-print(f"Sum: {sum_result}")
+# TODO: Add the numbers
+sum_result = None  # Replace None with your code
+
+# Print results (don't modify these lines)
+print("First number:", num1)
+print("Second number:", num2)
+print("Sum:", sum_result)

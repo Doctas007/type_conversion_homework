@@ -1,6 +1,12 @@
 # Task 2: float() Conversion
-# Convert string "3.14" to float
+# Instructions:
+# 1. Convert the string "3.14" to a float using float()
+# 2. Print the result and its type
 
-float_num = float("3.14")
-print(f"String converted to float: {float_num}")
-print(f"Type of the converted value: {type(float_num)}")
+# Write your code below
+# TODO: Convert "3.14" to float
+float_num = None  # Replace None with your code
+
+# Print results (don't modify these lines)
+print("String converted to float:", float_num)
+print("Type of the converted value:", type(float_num))

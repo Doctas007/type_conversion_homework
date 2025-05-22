@@ -1,20 +1,28 @@
 # Task 4: bool() Test
-# Convert different values to boolean
+# Instructions:
+# 1. Convert each value to boolean using bool()
+# 2. Print the original value, converted result, and its type
+# 3. Observe which values become True and which become False
 
-# Testing with number 0
+# Values to test
 value1 = 0
-result1 = bool(value1)
-print(f"Value: {value1}")
-print(f"Converted to boolean: {result1}")
-print(f"Type: {type(result1)}")
+value2 = 1
+
+# TODO: Convert value1 to boolean
+result1 = None  # Replace None with your code
+
+# TODO: Convert value2 to boolean
+result2 = None  # Replace None with your code
+
+# Print results (don't modify these lines)
+print("Value:", value1)
+print("Converted to boolean:", result1)
+print("Type:", type(result1))
 print("-" * 20)
 
-# Testing with number 1
-value2 = 1
-result2 = bool(value2)
-print(f"Value: {value2}")
-print(f"Converted to boolean: {result2}")
-print(f"Type: {type(result2)}")
+print("Value:", value2)
+print("Converted to boolean:", result2)
+print("Type:", type(result2))
 print("-" * 20)
 
 # Testing with empty string

@@ -1,21 +1,37 @@
 # Task 10: Boolean Logic
-# Test different values for boolean conversion
+# Instructions:
+# 1. Convert each value to boolean using bool()
+# 2. Print the original value, its type, and boolean result
+# 3. Observe which values become True and which become False
 
-# Test with integer 0
-value1 = 0
-result1 = bool(value1)
-print(f"Value: {value1}")
-print(f"Type: {type(value1)}")
-print(f"Converted to boolean: {result1}")
-print("-" * 30)
+# Values to test
+value1 = 0  # integer zero
+value2 = 1  # integer one
+value3 = ""  # empty string
+value4 = "hello"  # non-empty string
+value5 = 0.0  # zero as float
 
-# Test with integer 1
-value2 = 1
-result2 = bool(value2)
-print(f"Value: {value2}")
-print(f"Type: {type(value2)}")
-print(f"Converted to boolean: {result2}")
-print("-" * 30)
+# TODO: Convert each value to boolean
+result1 = None  # Replace None with your code
+result2 = None  # Replace None with your code
+result3 = None  # Replace None with your code
+result4 = None  # Replace None with your code
+result5 = None  # Replace None with your code
+
+
+# Print results (don't modify these lines)
+def print_result(value, result):
+    print("Value:", value)
+    print("Type:", type(value))
+    print("Converted to boolean:", result)
+    print("-" * 30)
+
+
+print_result(value1, result1)
+print_result(value2, result2)
+print_result(value3, result3)
+print_result(value4, result4)
+print_result(value5, result5)
 
 # Test with empty string
 value3 = ""

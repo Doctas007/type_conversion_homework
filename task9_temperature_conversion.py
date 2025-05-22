@@ -1,11 +1,18 @@
 # Task 9: Temperature Conversion
-# Convert Celsius to Fahrenheit
+# Instructions:
+# 1. Convert string "36.5" to float
+# 2. Convert the temperature from Celsius to Fahrenheit using formula: (celsius * 9/5) + 32
+# 3. Print both temperatures
 
-# Convert string temperature to float
-celsius = float("36.5")
+# Temperature in Celsius as string
+temp_string = "36.5"
 
-# Convert to Fahrenheit
-fahrenheit = (celsius * 9 / 5) + 32
+# TODO: Convert string to float
+celsius = None  # Replace None with your code
 
-print(f"Temperature in Celsius: {celsius}°C")
-print(f"Temperature in Fahrenheit: {fahrenheit}°F")
+# TODO: Convert to Fahrenheit using the formula: (celsius * 9/5) + 32
+fahrenheit = None  # Replace None with your code
+
+# Print results (don't modify these lines)
+print("Temperature in Celsius:", celsius, "°C")
+print("Temperature in Fahrenheit:", fahrenheit, "°F")

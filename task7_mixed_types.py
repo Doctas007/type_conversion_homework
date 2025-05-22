@@ -1,16 +1,20 @@
 # Task 7: Mixed Types
-# Convert between int, float, and str
+# Instructions:
+# 1. Start with the integer 42
+# 2. Convert it to float using float()
+# 3. Convert it to string using str()
+# 4. Print all versions with their types
 
-# Start with an integer
+# Start with this integer
 number = 42
 
-# Convert to float
-float_version = float(number)
+# TODO: Convert number to float
+float_version = None  # Replace None with your code
 
-# Convert to string
-string_version = str(number)
+# TODO: Convert number to string
+string_version = None  # Replace None with your code
 
-# Print all versions
-print(f"Original integer: {number} (Type: {type(number)})")
-print(f"Float version: {float_version} (Type: {type(float_version)})")
-print(f"String version: {string_version} (Type: {type(string_version)})")
+# Print results (don't modify these lines)
+print("Original integer:", number, "(Type:", type(number), ")")
+print("Float version:", float_version, "(Type:", type(float_version), ")")
+print("String version:", string_version, "(Type:", type(string_version), ")")

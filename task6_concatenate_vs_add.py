@@ -1,12 +1,18 @@
 # Task 6: Concatenate vs Add
-# Show difference between string concatenation and integer addition
+# Instructions:
+# 1. Try string concatenation with "2" + "3"
+# 2. Convert strings to integers and add them
+# 3. Compare the results
 
-# String concatenation
-str_result = "2" + "3"
-print(f"String concatenation result: {str_result}")
-print(f"Type of string result: {type(str_result)}")
+# TODO: Concatenate strings "2" and "3"
+str_result = None  # Replace None with your code
 
-# Integer addition after conversion
-int_result = int("2") + int("3")
-print(f"\nInteger addition result: {int_result}")
-print(f"Type of integer result: {type(int_result)}")
+# TODO: Convert strings to integers and add them
+int_result = None  # Replace None with your code
+
+# Print results (don't modify these lines)
+print("String concatenation result:", str_result)
+print("Type of string result:", type(str_result))
+
+print("\nInteger addition result:", int_result)
+print("Type of integer result:", type(int_result))
