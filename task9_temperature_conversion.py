@@ -13,6 +13,4 @@ celsius = None  # Replace None with your code
 # TODO: Convert to Fahrenheit using the formula: (celsius * 9/5) + 32
 fahrenheit = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("Temperature in Celsius:", celsius, "°C")
-print("Temperature in Fahrenheit:", fahrenheit, "°F")
+# TODO: Print both Celsius and Fahrenheit temperatures

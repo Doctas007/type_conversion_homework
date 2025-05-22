@@ -10,9 +10,4 @@ str_result = None  # Replace None with your code
 # TODO: Convert strings to integers and add them
 int_result = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("String concatenation result:", str_result)
-print("Type of string result:", type(str_result))
-
-print("\nInteger addition result:", int_result)
-print("Type of integer result:", type(int_result))
+# TODO: Print both results (concatenation and addition) and their types

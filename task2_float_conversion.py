@@ -7,6 +7,4 @@
 # TODO: Convert "3.14" to float
 float_num = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("String converted to float:", float_num)
-print("Type of the converted value:", type(float_num))
+# TODO: Print the float number and verify it's type using type()

@@ -18,7 +18,4 @@ num2 = None  # Replace None with your code
 # TODO: Add the numbers
 sum_result = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("First number:", num1)
-print("Second number:", num2)
-print("Sum:", sum_result)
+# TODO: Print both numbers and their sum

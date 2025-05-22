@@ -10,6 +10,4 @@ num1 = None  # Replace None with your code
 # TODO: Convert string "42" to integer
 num2 = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("First number converted to integer:", num1)
-print("Second number converted to integer:", num2)
+# TODO: Print both numbers and verify they are integers using type()

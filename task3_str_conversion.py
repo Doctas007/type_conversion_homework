@@ -10,6 +10,4 @@ number = 42
 # TODO: Convert number to string
 string_number = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("Number converted to string:", string_number)
-print("Type of the converted value:", type(string_number))
+# TODO: Print the string and verify it's type using type()

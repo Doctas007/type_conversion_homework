@@ -14,7 +14,4 @@ num2 = None  # Replace None with your code
 # TODO: Multiply num1 and num2
 result = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("First number after conversion:", num1)
-print("Second number after conversion:", num2)
-print("Multiplication result:", result)
+# TODO: Print both converted numbers and their multiplication result

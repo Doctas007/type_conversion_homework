@@ -14,29 +14,4 @@ result1 = None  # Replace None with your code
 # TODO: Convert value2 to boolean
 result2 = None  # Replace None with your code
 
-# Print results (don't modify these lines)
-print("Value:", value1)
-print("Converted to boolean:", result1)
-print("Type:", type(result1))
-print("-" * 20)
-
-print("Value:", value2)
-print("Converted to boolean:", result2)
-print("Type:", type(result2))
-print("-" * 20)
-
-# Testing with empty string
-value3 = ""
-result3 = bool(value3)
-print(f"Value: {value3}")
-print(f"Converted to boolean: {result3}")
-print(f"Type: {type(result3)}")
-print("-" * 20)
-
-# Testing with non-empty string
-value4 = "hello"
-result4 = bool(value4)
-print(f"Value: {value4}")
-print(f"Converted to boolean: {result4}")
-print(f"Type: {type(result4)}")
-print("-" * 20)
+# TODO: Print each original value, its boolean conversion, and type
