@@ -6,12 +6,13 @@
 # 4. Print all results
 
 # TODO: Convert 15.7 to integer
-num1 = None  # Replace None with your code
+num1 = int(15.7)  # Replace None with your code
 
 # TODO: Convert 3.2 to integer
-num2 = None  # Replace None with your code
+num2 = int(3.2) # Replace None with your code
 
 # TODO: Multiply num1 and num2
-result = None  # Replace None with your code
+result = num1 + num2  # Replace None with your code
 
 # TODO: Print both converted numbers and their multiplication result
+print(result)
