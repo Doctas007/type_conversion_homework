@@ -8,9 +8,10 @@
 temp_string = "36.5"
 
 # TODO: Convert string to float
-celsius = None  # Replace None with your code
+celsius = float(temp_string) # Replace None with your code
 
 # TODO: Convert to Fahrenheit using the formula: (celsius * 9/5) + 32
-fahrenheit = None  # Replace None with your code
+fahrenheit = (celsius * 9/5) +32 # Replace None with your code
 
 # TODO: Print both Celsius and Fahrenheit temperatures
+print(fahrenheit)
