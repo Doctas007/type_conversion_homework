@@ -5,6 +5,7 @@
 
 # Write your code below
 # TODO: Convert "3.14" to float
-float_num = None  # Replace None with your code
+float_num = float(3.14) # Replace None with your code
 
 # TODO: Print the float number and verify it's type using type()
+print(type(float_num))
