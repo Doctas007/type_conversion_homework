@@ -9,9 +9,11 @@
 number = 42
 
 # TODO: Convert number to float
-float_version = None  # Replace None with your code
+float_version = float(number)  # Replace None with your code
 
 # TODO: Convert number to string
-string_version = None  # Replace None with your code
+string_version = str(float_version) # Replace None with your code
 
 # TODO: Print all three versions with their types
+print(float_version)
+print(string_version)
