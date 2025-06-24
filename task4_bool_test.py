@@ -9,9 +9,11 @@ value1 = 0
 value2 = 1
 
 # TODO: Convert value1 to boolean
-result1 = None  # Replace None with your code
+result1 = bool(value1) # Replace None with your code
 
 # TODO: Convert value2 to boolean
-result2 = None  # Replace None with your code
+result2 = bool(value2)  # Replace None with your code
 
 # TODO: Print each original value, its boolean conversion, and type
+print(result1)
+print(result2)
