@@ -10,12 +10,13 @@ str_num1 = "10"
 str_num2 = "20"
 
 # TODO: Convert str_num1 to integer
-num1 = None  # Replace None with your code
+num1 = int(str_num1)  # Replace None with your code
 
 # TODO: Convert str_num2 to integer
-num2 = None  # Replace None with your code
+num2 = int(str_num2)  # Replace None with your code
 
 # TODO: Add the numbers
-sum_result = None  # Replace None with your code
+sum_result = num1 + num2  # Replace None with your code
 
 # TODO: Print both numbers and their sum
+print (sum_result)
