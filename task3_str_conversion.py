@@ -8,6 +8,7 @@
 number = 42
 
 # TODO: Convert number to string
-string_number = None  # Replace None with your code
+string_number = str(42)  # Replace None with your code
 
 # TODO: Print the string and verify it's type using type()
+print(type(string_number))
