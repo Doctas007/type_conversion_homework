@@ -12,11 +12,16 @@ value4 = "hello"  # non-empty string
 value5 = 0.0  # zero as float
 
 # TODO: Convert each value to boolean
-result1 = None  # Replace None with your code
-result2 = None  # Replace None with your code
-result3 = None  # Replace None with your code
-result4 = None  # Replace None with your code
-result5 = None  # Replace None with your code
+result1 =bool(value1)  # Replace None with your code
+result2 =bool(value2)   # Replace None with your code
+result3 =bool(value3)   # Replace None with your code
+result4 =bool(value4)   # Replace None with your code
+result5 =bool(value5)  # Replace None with your code
 
 
 # TODO: Print each value, its type, and its boolean conversion
+print(result1)
+print(result2)
+print(result3)
+print(result4)
+print(result5)
